@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DateTime/DateTime.iml" filepath="$PROJECT_DIR$/DateTime/DateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MD2-JAVA-Contructure.iml" filepath="$PROJECT_DIR$/.idea/MD2-JAVA-Contructure.iml" />
+    </modules>
+  </component>
+</project>
